@@ -6,3 +6,4 @@ in this tutorial we r going to learn devops
 version control system
 integration tools
 jenkins
+ansible
